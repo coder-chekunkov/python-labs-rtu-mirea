@@ -15,4 +15,8 @@ c = y // 100
 
 y = y % 100
 ans = int(d + ((13 * m - 1) // 5) + y + (y // 4 + c // 4 - 2 * c + 777))
-print(ans % 7)
+buff = ans % 7
+if buff == 0:
+    print(7)
+else:
+    print(buff)
