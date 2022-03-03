@@ -9,4 +9,4 @@ def make_preview(size, colors):
     img.save('res.bmp')
 
 
-make_preview((200, 200), 4)
+make_preview((200, 200), 10)

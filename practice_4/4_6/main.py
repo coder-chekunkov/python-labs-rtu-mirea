@@ -13,4 +13,4 @@ def board(num, size):
     img.save('res.png', 'PNG')
 
 
-board(8, 50)
+board(12, 10)

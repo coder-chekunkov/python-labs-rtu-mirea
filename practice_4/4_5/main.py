@@ -21,4 +21,4 @@ def gradient(color):
     new_image.save("res.png", "PNG")
 
 
-gradient("B")
+gradient("G")

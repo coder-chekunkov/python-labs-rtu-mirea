@@ -26,4 +26,4 @@ def lucky(a):
 
 
 lastTicket = 123321
-print(lucky(100001))
+print(lucky(110011))

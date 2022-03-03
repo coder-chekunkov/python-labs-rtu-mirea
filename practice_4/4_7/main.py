@@ -22,4 +22,4 @@ def makeanagliph(filename, delta):
     res.save("res.jpg")
 
 
-makeanagliph('image.jpg', 10)
+makeanagliph('image.jpg', 50)
